@@ -1,7 +1,8 @@
 ---
 title: "Water Nation pride and peace"
 date: 2020-03-22T15:05:45+05:30
-draft: true
+draft: false
+
 categories: ["Water"]
 icon: "fas fa-water"
 ---

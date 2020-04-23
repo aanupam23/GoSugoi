@@ -1,7 +1,7 @@
 ---
 title: "Fire Nation - Price Zuko"
 date: 2020-03-22T15:05:56+05:30
-draft: true
+draft: false
 
 categories: ["Fire"]
 icon: "fas fa-fire"
