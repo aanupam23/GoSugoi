@@ -2,7 +2,6 @@ theme = "hugo-sugoi"
 baseURL = "https://gosugoi.onrender.com/"
 languageCode = "en-us"
 title = "Sugoi"
-copyright = "&copy; {currentYear} Your Site"
 summaryLength = 20
 paginate = 5
 # Google Analytics ID, Uncomment below line to enable
